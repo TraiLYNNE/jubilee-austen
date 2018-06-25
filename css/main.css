@@ -194,6 +194,11 @@ body {
     padding: 110px 0;
 }
 
+#contact-img {
+    margin-left: 25px;
+    border: 12px solid #ffffff;
+}
+
 
 /* ==========================================================================
    Helper classes
