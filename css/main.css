@@ -153,6 +153,8 @@ body {
     font-weight: light;
     font-size: 30px;
     color: #BBC085;
+    width: 300px;
+    float: left;
 }
 
 nav {
@@ -170,6 +172,20 @@ nav ul li a {
     font-size: 18px;
     color: #828282;
     padding-left: 80px;
+}
+
+#hero h2 {
+    width: 1000px;
+    clear: both;
+    font-family: 'Lora', serif;
+    font-size: 72px;
+    line-height: 80px;
+    color: #9B9B9B;
+    padding: 20px 0 20px 25px;
+}
+
+#hero h2 span {
+    color: #2B2B2B;
 }
 
 
