@@ -167,6 +167,14 @@ body {
     text-align: center;
 }
 
+#work .full-width {
+    padding: 115px 0;
+}
+
+#work img {
+    padding-bottom: 30px;
+}
+
 
 /* ==========================================================================
    Helper classes
