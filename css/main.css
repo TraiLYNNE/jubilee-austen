@@ -147,6 +147,10 @@ body {
     background-size: cover;
 }
 
+#hero h1 {
+    padding: 65px 0 65px 25px;
+}
+
 
 /* About  */
 
