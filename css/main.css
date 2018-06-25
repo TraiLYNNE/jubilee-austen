@@ -199,6 +199,17 @@ body {
     border: 12px solid #ffffff;
 }
 
+#contact h2,
+#contact #email-header,
+#contact #socialmedia-header,
+#contact ul {
+    padding-left: 115px;
+}
+
+#contact #envelope {
+    padding: 0 10px 0 115px;
+}
+
 
 /* ==========================================================================
    Helper classes
