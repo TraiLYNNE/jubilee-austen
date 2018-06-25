@@ -139,6 +139,15 @@ body {
 }
 
 
+/* Header */
+
+#hero {
+    height: 800px;
+    background-image: url('../img/hero.png');
+    background-size: cover;
+}
+
+
 /* About  */
 
 #about {
